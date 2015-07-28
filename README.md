@@ -1,4 +1,4 @@
-# funclab
+# FuncLab
 Playing with functional programming
 
 ## Needs to be run with babel-node
